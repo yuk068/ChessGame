@@ -4,8 +4,9 @@ Chess game made with Java and Swing
 ## NOTE: This is a test build, these following core features are missing:
                                                    
 1. En Passant
-2. Draw (by insufficient material)
-3. Draw (50 move rule)
+2. Draw (by repetition)
+3. Draw (by insufficient material)
+4. Draw (50 move rule)
 
 ## Intended features:
 
