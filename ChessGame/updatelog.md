@@ -8,3 +8,4 @@
 
 1. Added Draw by fifty-move rule
 2. Added En Passant
+3. Bug fixes
