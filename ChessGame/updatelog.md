@@ -14,7 +14,7 @@
 
 ### GUI Overhaul
 - The GUI has been made more colorful, update for the info-tab
-- Note has been tuck away
+- Note has been tucked away
 
 ### Command line
 Added a command line input to the info-tab, you can use commands like:
@@ -25,5 +25,7 @@ Added a command line input to the info-tab, you can use commands like:
 * /exit - quit the program
 * /nexttheme, /prevtheme - cycle though GUI's color schemes
 * /notation - (debug option) toggle between primitive coordinates and chess notation (/coords must be invoked first)
+
+(You can press '/' to focus to the command input box)
 
 Minor bug fixes and tweaks
