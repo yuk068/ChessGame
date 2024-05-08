@@ -1,26 +1,5 @@
 # ChessGame
 Chess game made with Java and Swing
 
-## NOTE: This is a test build, these following core features are missing:
-                                                   
-1. En Passant
-2. Draw (by repetition)
-3. Draw (by insufficient material)
-4. Draw (50 move rule)
-
-## Intended features:
-
-1. Notation log
-2. Save and load position
-3. Info tab
-4. Timer
-
-You can help test the game by moving the pieces, they should
-move as intended and behave as they should considering the
-missing features (Try as many impossible moves as possible!)
-Move by selecting a square (highlighted yellow) then click
-the destination.
-                                                
-If you spot any bugs, feel free to report them to me!
-                                                
-Thanks, Much appreciated!
+## Lore:
+My second attempt at coding chess, this time i plan to create a full-fludge app, i plan to have all the core mechanics and features fine tuned and completed in v1. I also plan to do some research and maybe implement chess bot(s) for v2.
