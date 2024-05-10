@@ -80,4 +80,5 @@ I'm also working on more features and further stylize the info-tab, planned feat
 
 ## v1.3.2
 
-Improve FEN validation
+- Improve FEN validation
+- Fixed flipping board issue
