@@ -77,3 +77,7 @@ I'm also working on more features and further stylize the info-tab, planned feat
 - Timer
 - Visual for capture log
 - Real time notation log
+
+## v1.3.2
+
+Improve FEN validation
