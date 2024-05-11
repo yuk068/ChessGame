@@ -82,3 +82,17 @@ I'm also working on more features and further stylize the info-tab, planned feat
 
 - Improve FEN validation
 - Fixed flipping board issue
+
+## v1.3.3
+
+- Fixed castling issues, 
+- Update to FEN validator, now detonates no castling rights as '-'
+- New commands:
+  * /mute : toggle sounds
+  * /help (+guide) : get additional information
+
+# TEST_BOT v1.4.0
+
+Added bot 'dummy', which makes move 100% randomly, you can try it out with new command:
+- /bot (+bot) : play against bot as white
+- /bot bot (+bot) (+delay_ms) : make bot play itself with specified delay in ms
